@@ -1,0 +1,6 @@
+hg+http://hg.q-continuum.net/platform_utils#egg=platform_utils
+hg+http://hg.q-continuum.net/libloader#egg=libloader
+hg+http://hg.q-continuum.net/accessible_output2#egg=accessible_output2
+git+https://github.com/chrisnorman7/simpleconf.git#egg=simpleconf
+git+https://github.com/chrisnorman7/default_argparse.git#egg=default_argparse
+six
